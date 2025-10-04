@@ -1,4 +1,4 @@
-[![CI](https://github.com/nogibjj/coursera-applied-data-eng-projects/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/coursera-applied-data-eng-projects/actions/workflows/cicd.yml)
+[![CI](https://github.com/AbeqqalMarouane/ETL-SQLite-ETL-Destination/actions/workflows/cicd.yml/badge.svg)](https://github.com/AbeqqalMarouane/ETL-SQLite-ETL-Destination/actions/workflows/cicd.yml)
 
 ## Projects for Specialization
 
